@@ -54,7 +54,7 @@ httpx==0.28.1
 idna==3.10
 importlib_metadata==8.6.1
 ipykernel==6.29.5
-ipython==9.1.0
+ipython==8.35.0
 ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.6
 isoduration==20.11.0
@@ -95,7 +95,7 @@ nest-asyncio==1.6.0
 netCDF4==1.7.2
 notebook==7.4.0
 notebook_shim==0.2.4
-numcodecs==0.16.0
+numcodecs==0.13.1
 numpy==1.24.3
 overrides==7.7.0
 packaging==24.2
@@ -120,7 +120,7 @@ pymap3d==3.1.0
 pyogrio==0.10.0
 pyparsing==3.2.3
 pyproj==3.7.1
-pyresample==1.33.0
+pyresample==1.31.0
 pyshp==2.3.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
