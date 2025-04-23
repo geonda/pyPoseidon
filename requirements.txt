@@ -46,7 +46,7 @@ fonttools==4.57.0
 fqdn==1.5.1
 fsspec==2025.3.2
 geopandas==1.0.1
-gmsh==4.13.1
+gmsh
 h11==0.14.0
 html5lib==1.1
 httpcore==1.0.8
